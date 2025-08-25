@@ -1,0 +1,9 @@
+# Archivos de entorno
+.env
+
+# Directorios de datos
+data/
+
+# Caché de Python
+__pycache__/
+*.pyc
