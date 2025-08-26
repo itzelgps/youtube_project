@@ -1,0 +1,6 @@
+Crea este archivo para gestionar las dependencias del proyecto.
+
+google-api-python-client
+pandas
+python-dotenv
+textblob
